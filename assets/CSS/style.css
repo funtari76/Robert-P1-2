@@ -2,7 +2,6 @@
 
 * {
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
 }
 
@@ -13,6 +12,7 @@ body {
     color: #333;
     background: #ffffff;
 }
+
 
 img {
     max-width: 100%;
@@ -26,6 +26,7 @@ h2 {
 ul {
     list-style-type: none;
 }
+
 
 .container {
     max-width: 1100px;
@@ -114,17 +115,17 @@ header {
     height: 100%;
     padding: 20px 100px;
   }
-  .container:after {
+.container:after {
     content: "";
     position: absolute;
-    left: 0;
-    top: 0;
     width: 100%;
     height: 100%;
-    background: url(../images/mayacontact.jpg) no-repeat center;
+    left: 0;
+    top: 0;
+    background: url("/assets/images/mayacontact.jpg") no-repeat center;
     background-size: cover;
-    z-index: -1;
     filter: blur(40px);
+    z-index: -1;
   }
   .contact-box {
     max-width: 850px;
@@ -144,6 +145,22 @@ header {
   .right {
     padding: 25px 40px;
   }
+  h2 {
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  h2:after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: whitesmoke;
+  }
   .image-grid{
     --gap: 16px;
     --num-cols: 4;
@@ -156,5 +173,51 @@ header {
     grid-template-columns: repeat(var(--num-cols), 1fr);
     grid-auto-rows: var(--row-height);
     gap: var(--gap);
+  }
+  .image-grid > img{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    border: 55px rgb(9, 148, 44);
+  }
+  .image-grid-col-2{
+    grid-column: span 2;
+  }
+
+  .image-grid-row-2{
+    grid-row: span 2;
+  }
+
+  /*footer*/
+
+  footer {
+    height: 150px;
+    color: #3a3a3a;
+  }
+  
+  .social-networks {
+    text-align: center;
+  }
+  
+  .social-networks >li {
+    display: inline;
+  
+  }
+  
+  .social-networks i {
+    font-size: 240%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+  }
+  /* Mobile Divs*/
+
+  @media screen and (max-width: 880px){
+    .contact-box{
+      grid-template-columns: 1fr;
+    }
+    .left{
+      height: 200px; 
+    }
   }
   
