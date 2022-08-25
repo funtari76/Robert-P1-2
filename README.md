@@ -1,14 +1,16 @@
 # Chichen Logs
 
-Chichen logs is a website with the aim to help people get discounts to major sites accross
+Chichen logs is a website with the aim to help inform people who would like to experiance somethings extra ordinary.
 
-CHichen logs will as a handly easy tool for travelers and researchers and backpackers.
+Chichen logs will as a handly easy tool for travelers and researchers and backpackers.
+
+With simple giudlines as to how to get correct links and packages for hose on a budget as there are free tour on sirtirn day during the week or those who are more flexible with their spendings..
 
 ## Features
 
 - Users find discounts on any trips,
 
-- Users can find valueble information, as a hub that is interconnected to .
+- Users can find valueble information
 
 ### Mockup
 
@@ -43,11 +45,11 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 - **Meetup Times section**
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
+  - 
   - This section will be updated as these times change to keep the user up to date.
 
 ## Testing
-
+![Testing]
 
 
 ## Content
