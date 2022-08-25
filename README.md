@@ -52,6 +52,10 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 ![Testing]
 
 
+## Bug and Issuse
+
+![Erros](/assets/media/Screenshot%20bugs.png)
+
 ## Content
 
 * Images
