@@ -6,7 +6,7 @@ Chichen logs will as a handly easy tool for travelers and researchers and backpa
 
 With simple giudlines as to how to get correct links and packages for hose on a budget as there are free tour on sirtirn day during the week or those who are more flexible with their spendings..
 
-## Features
+## <u>Features</u>
 
 - Users find ....... on any trips,
 
@@ -46,9 +46,9 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 <hr>
 
-- **Ethos Section**
+- **Club Section**
 
-  - The ethos segment will permit the client to see the benefits of joining the meetups, as well as the benefits of finding . 
+  - The ethos segment will permit the client to see the benefits of joining the meetusp, as well as the benefits of finding . 
 Clients will see the esteem of marking up forany given gatherings the meetups. This ought to empower the client to consider traveling as one of their top checklist to do list.
 
 ![Club Ethos]
@@ -59,20 +59,22 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
   - This section will be updated as these times change to keep the user up to date.
 
 <hr>
+<br>
 
-## Image Gallery
+
+## <u>Image Gallery</u>
 
 
 ![Gallery](/assets/media/Screenshotimagegallery.jpg)
 
 <hr>
 
-## Contact Form
+## <u>Contact Form</u>
 
 ![Contact Form](/assets/media/Screenshotform.jpg)
 
 
-## Footer
+## <u>Footer</u>
 
 ![Footer](/assets/media/Screenshotfooter.jpg)
 
@@ -82,18 +84,20 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 <hr>
 
-## Testing
+## <u>Tests</u>
 
 ![Testing]
 
 
-## Bug and Issuse
+## <u>Bug and Issuse</u>
 
 ![Erros](/assets/media/Screenshot%20bugs.png)
 
 <hr>
 
-## Content
+## <u>Credits</u>
+
+  ### Content
 
 * Images
  Pixel.com

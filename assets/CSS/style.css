@@ -29,15 +29,17 @@ ul {
 
 
 .container {
+    background-image: rgb(249, 245, 25);
     max-width: 1100px;
     margin: 0 auto;
     padding: 0px;
+
 }
 
 .navbar {
     background: rgb(5, 96, 5);
     color: #aeb4bf;
-    height: 80px;
+    height: auto;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
 

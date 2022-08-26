@@ -30,7 +30,10 @@
             </ul>
         </div>
     </nav>
+
+
     <!--Header-->
+
     <header class="header">
         <div class="container">
             <div id="hero.image">
@@ -40,12 +43,16 @@
     </header>
     <hr>
 
-    <!--Section 1-->
+    <!--Section 1 Top-->
+
     <section class="boxes">
         <div class="container">
+            <!--kolla om man kan ha den classen contaner1-->
             <div class="box">
-                <h2><i class="fa-solid fa-map-location"></i> History</h2>
+                <h2 id="top"><i class="fa-solid fa-map-location"></i> History</h2>
+                <a href="#">Go to forms</a>
                 <p>
+
                     Chichen Itza was a Mayan city on the Yucatan Peninsula in Mexico. Although it is an important
                     tourist attraction,
                     Chichen Itza also remains an active archeological site.
@@ -71,9 +78,11 @@
 
     <hr>
 
-    <!--Section Tours-->
+    <!--Section 2 Tours-->
 
     <section>
+        <h2 id="tours">Times Scedules</h2>
+        <a href="#forms">Go to forms</a>
         <div>
             <h3>Classic Visists</h3>
             <h3>Monday</h3>
@@ -89,25 +98,29 @@
     </section>
 
     <hr>
-    <!--Section 2-->
+    <!--Section 3 Image Gallery-->
+
     <section>
-        <h2>Images</h2>
+        <h2 id="gallery">Images</h2>
+        <a href="#top">Go to top</a>
+        <div class="image-grid">
+            <img class="image-grid-col-2 image-grid-row-2" src="./assets/images/mextropicbeach.jpg" alt="itza">
+            <img src="./assets/images/mexgallery3.jpg" alt="itza">
+            <img src="./assets/images/mexgallery4.jpg" alt="itza">
+            <img src="./assets/images/mexindigins1.jpg" alt="itza">
+            <img src="./assets/images/mexicotopview.jpg" alt="itza">
+        </div>
     </section>
-    <div class="image-grid">
-        <img class="image-grid-col-2 image-grid-row-2" src="./assets/images/mextropicbeach.jpg" alt="itza">
-        <img src="./assets/images/mexgallery3.jpg" alt="itza">
-        <img src="./assets/images/mexgallery4.jpg" alt="itza">
-        <img src="./assets/images/mexindigins1.jpg" alt="itza">
-        <img src="./assets/images/mexicotopview.jpg" alt="itza">
-    </div>
     <hr>
-    <!--Forms-->
+
+    <!--Section 4 Forms-->
 
     <section class="container">
         <div class="contact-box">
             <div class="left"></div>
             <div class="right">
-                <h2>Contact Us</h2>
+                <h2 id="forms">Contact Us</h2>
+                <a href="#top">Go to top</a>
                 <input type="text" class="field" placeholder="Your Name" required />
                 <input type="email" class="field" placeholder="Your Email" required />
                 <input type="text" class="field" placeholder="Your Phone" required />
@@ -118,7 +131,7 @@
     </section>
     <hr>
 
-    <!--footer-->
+    <!--Section 5 footer-->
 
     <footer>
         <ul class="social-networks">
