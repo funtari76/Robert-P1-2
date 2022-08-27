@@ -52,7 +52,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
     Clients will see the esteem of marking up forany given gatherings the meetups. 
     This ought to empower the client to consider traveling as one of their top checklist to do list.
 
-![Club Ethos]
+![Members]
 
 - **Meetup Times section**
 
