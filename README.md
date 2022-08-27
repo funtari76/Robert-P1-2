@@ -47,14 +47,15 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 - **Club Section**
 
-  - The ethos segment will permit the client to see the benefits of joining the meetusp, as well as the benefits of finding . 
-Clients will see the esteem of marking up forany given gatherings the meetups. This ought to empower the client to consider traveling as one of their top checklist to do list.
+  - The ethos segment will permit the client to see the benefits of joining the meetusp,
+    as well as the benefits of finding . 
+    Clients will see the esteem of marking up forany given gatherings the meetups. 
+    This ought to empower the client to consider traveling as one of their top checklist to do list.
 
 ![Club Ethos]
 
 - **Meetup Times section**
 
-  - 
   - This section will be updated as these times change to keep the user up to date.
 
 <hr>
@@ -62,9 +63,10 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 
 ## <u>Image Gallery</u>
+
    ### Content
      
-      - 
+      
 
 ![Gallery](/assets/media/Screenshotimagegallery.jpg)
 
@@ -74,6 +76,7 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 ![Contact Form](/assets/media/Screenshotform.jpg)
 
+<hr>
 
 ## <u>Footer</u>
 
@@ -89,7 +92,7 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 ### Tests
 
-* Ran some tests on the index and styles files
+* Initiul tests via the validator on the index and styles files and had issuse at first. 
 
 
 ![Testing](/assets/media/Screenshotvalidator2.jpg)
@@ -98,6 +101,9 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 ![Erros](/assets/media/Screenshotvalidator1.jpg)
 
+* Then did a second test after making some changes 
+
+![Green](/assets/media/Screenshotvalidatorgreen1.jpg)
 
 
 <hr>

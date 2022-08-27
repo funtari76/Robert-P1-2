@@ -1,20 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 * {
-    box-sizing: border-box;
-    padding: 0;
+    box-sizing: content-box;
+    padding: 0px;
 }
 
 body {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
+    color: rgb(0, 0, 0);
     background: #ffffff;
 }
 
 
-img {
+.img {
     max-width: 100%;
 }
 
@@ -29,16 +29,19 @@ ul {
 
 
 .container {
-    background-image: rgb(249, 245, 25);
+    /* background-image: rgb(249, 245, 25);*/
     max-width: 1100px;
     margin: 0 auto;
     padding: 0px;
 
 }
 
+/*****************************************************Navbar********************************************************/
+/*******************************************************************************************************************/
+
 .navbar {
     background: rgb(5, 96, 5);
-    color: #aeb4bf;
+    color: #ffffff;
     height: auto;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
@@ -46,7 +49,7 @@ ul {
 .logo {
     font-size: x-large;
     font-weight: bold;
-    color: rgb(251, 251, 91);
+    color: rgb(255, 255, 255);
 }
 
 .navbar a {
@@ -57,7 +60,7 @@ ul {
 }
 
 .navbar a:hover {
-    color: rgb(81, 126, 14);
+    color: yellow;
     border-bottom: 1px solid #b90505;
 }
 
@@ -76,8 +79,9 @@ ul {
     margin-left: 20px;
 }
 
-
-header {
+/******************************************************header***************************************************/
+/***************************************************************************************************************/
+.header {
     width: 100vw;
     height: 100vh;
     background-image: linear-gradient(rgba(4, 9, 30), rgba(4, 9, 30, 0.7)),
@@ -89,9 +93,19 @@ header {
     justify-content: center;
 }
 
+#hero-image h1 {
+    height: 300px;
+    width: 100%;
+    color: #ffffff;
+}
 
 
-/**Imagees */
+/***********************************************************Gallery***************************************************************/
+/********************************************************************************************************************************/
+
+
+
+/**Gallery Images */
 
 .gallery .img-gallery {
     display: flex;
@@ -110,15 +124,7 @@ header {
     color: rgb(182, 194, 17);
 }
 
-.container {
-    position: relative;
-    display: block;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    padding: 20px 100px;
-}
+
 
 .container:after {
     content: "";
@@ -127,11 +133,12 @@ header {
     height: 100%;
     left: 0;
     top: 0;
-    background: url("/assets/images/mayacontact.jpg") no-repeat center;
+    /* background: url("/assets/images/mayacontact.jpg") no-repeat center;*/
     background-size: cover;
     filter: blur(40px);
     z-index: -1;
 }
+
 
 .contact-box {
     max-width: 850px;
@@ -173,7 +180,7 @@ h2:after {
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
 }
 
 .image-grid {
@@ -210,6 +217,7 @@ h2:after {
 footer {
     height: 150px;
     color: #3a3a3a;
+    background-color: #10bd1c26;
 }
 
 .social-networks {
