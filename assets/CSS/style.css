@@ -28,7 +28,7 @@ ul {
 }
 
 
-.container {
+.container-sm {
     background-image: rgb(249, 245, 25);
     max-width: 1100px;
     margin: 0 auto;
@@ -92,6 +92,7 @@ header {
 
 
 /**Imagees */
+
 .gallery .img-gallery {
     display: flex;
     flex-wrap: wrap;
