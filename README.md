@@ -14,8 +14,8 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ### Mockup
 
------------------------------------:|:--------------------------:
-![]()     |     ![]()
+![Color Theme](/assets/media/AdobeColorcolortheme.jpg)
+
 
 ### Existing Features
 
@@ -42,9 +42,8 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This section introduces the user to Chichen and the overall main focus 
 
-<hr>
 
 - **Club Section**
 
@@ -63,7 +62,9 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 
 ## <u>Image Gallery</u>
-
+   ### Content
+     
+      - 
 
 ![Gallery](/assets/media/Screenshotimagegallery.jpg)
 
@@ -78,20 +79,26 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
 ![Footer](/assets/media/Screenshotfooter.jpg)
 
-  **Contains
-    - Social Media links
+  * Contains
+    * Social Media links
 
 
 <hr>
 
-## <u>Tests</u>
+## <u>Bugs and Issuse</u>
 
-![Testing]
+### Tests
+
+* Ran some tests on the index and styles files
 
 
-## <u>Bug and Issuse</u>
+![Testing](/assets/media/Screenshotvalidator2.jpg)
+<br>
+<u>CSS</u>
 
-![Erros](/assets/media/Screenshot%20bugs.png)
+![Erros](/assets/media/Screenshotvalidator1.jpg)
+
+
 
 <hr>
 
@@ -99,9 +106,11 @@ Clients will see the esteem of marking up forany given gatherings the meetups. T
 
   ### Content
 
-* Images
- Pixel.com
- icons8.com/icons
+  #### Images
+  
+ * Pixel.com
+ * icons8.com/icons
+
 * Logo text 
- cooltext.com/
- flaticon.com
+ - cooltext.com/
+ - flaticon.com
