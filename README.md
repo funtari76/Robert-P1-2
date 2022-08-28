@@ -1,26 +1,36 @@
 # Chichen Logs
 <br>
+<hr>
 
+<br>
 Chichen logs is a website with the aim to help inform people who would like to experiance somethings extra ordinary.
 
 Chichen logs will as a handly easy tool for travelers and researchers and backpackers.
 
 With simple giudlines as to how to get correct links and packages for hose on a budget as there are free tour on sirtirn day during the week or those who are more flexible with their spendings..
 
-## <u>Features</u>
+<br>
+
+<hr>
+
+## Features
+<hr>
+<br>
 
 - Users find ....... on any trips,
 
 - Users can find valueble information vi
-
-### Mockup
+  
+  ### Mockup
+<hr>
 
 ![Color Themes](/assets/media/AdobeColorcolortheme.jpg)
 
 
-### Existing Features
+## Existing Features
 
-**Navigation Bar**
+   
+    **Navigation Bar**
 
 ![Navbar](/assets/media/Screenshotnavbar.jpg)
 
@@ -45,7 +55,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
   - This section introduces the user to Chichen and the overall main focus 
 
 
-- **Club Section**
+## Club Section
 
   - The ethos segment will permit the client to see the benefits of joining the meetusp,
     as well as the benefits of finding . 
@@ -56,7 +66,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 - **Meetup Times section**
 
-  - This section will be updated as these times change to keep the user up to date.
+  - Here users can view the set dates and times 
 
 <br>
 <br>
@@ -71,8 +81,14 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 ![Gallery](/assets/media/Screenshotimagegallery.jpg)
 
 <br>
+<hr>
+<br>
+
 
 ## <u>Contact Form</u>
+<hr>
+
+<br>
 
 ![Contact Form](/assets/media/Screenshotform.jpg)
 
@@ -90,9 +106,13 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ## <u>Testings</u>
 
+
+
+<hr>
+
    ### Test 1
 
-* Initiul tests via the validator on the index and styles files and had   issuse at first. 
+* Initiualy did a few tests via the validator on the index and styles files and had   issuse at first. 
 
 
 ![Testing](/assets/media/Screenshotvalidator2.jpg)
@@ -104,7 +124,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 <br>
 <hr>  
 
-
+<hr>
 
    ### <u>Test 2</u>
    
