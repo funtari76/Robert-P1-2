@@ -7,8 +7,9 @@ Chichen logs is a website with the aim to help inform people who would like to e
 
 Chichen logs will as a handly easy tool for travelers and researchers and backpackers.
 
-With simple giudlines as to how to get correct links and packages for hose on a budget as there are free tour on sirtirn day during the week or those who are more flexible with their spendings..
+With simple giudlines as to how to get the correct links and packages for those on a budget as there are free tour on certain days during the week or those who are more flexible with their spendings..
 
+<br>
 <br>
 
 <hr>
@@ -21,22 +22,30 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 - Users can find valueble information vi
   
-  ### Mockup
+### Mockup
 <hr>
 
-![UX Design]()
+Mobil                               |  Desktop
+:------------------------------------:|:--------------------------------------:|
+
+![UX Design Mobil](/assets/media/Screenshotuxuimobile1.jpg) |![UX Design Desktop](/assets/media/Screenshotdesktop1.jpg)
+
+<hr>
+<br>
 
 
 ![Color Themes](/assets/media/AdobeColorcolortheme.jpg)
 
-
+<hr>
 <br>
 
 
 ## Existing Features
 <hr>
    
-    **Navigation Bar**
+  
+  
+  **Navigation Bar**
 
 ![Navbar](/assets/media/Screenshotnavbar.jpg)
 
@@ -65,11 +74,15 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
   <hr>
 
+### <u>Free to join</u>
+
+  - No fees
+
 ### <u>Free confirmation </u>
 
-     - Sundays for all citizens 
-     - All national
-       - ID is required.
+ - Sundays for all citizens 
+ - All nationals
+ - ID is required.
 
 
 ![Members]
@@ -84,7 +97,8 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ## <u>Image Gallery</u>
 
-   ### Content
+  ### Content
+  - images
      
       
 
@@ -115,7 +129,9 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 <hr>
 
 ## <u>Testings</u>
-
+   
+ - ### Validator
+ - ### Lighthouse
 
 
 <hr>
@@ -130,6 +146,12 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 <u>CSS</u>
 
 ![Erros](/assets/media/Screenshotvalidator1.jpg)
+
+<hr>
+<br>
+
+
+![Lighthouse](/assets/media/Screenshotlighthouse.jpg)
 
 <br>
 <hr>  
@@ -147,11 +169,15 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 <br>
 <hr>
 
+
+
 ## <u>Tecknologies Used</u>
 <hr>
   
   * HTML5
-
+ 
+  
+  * CSS
 
 
 
@@ -168,5 +194,6 @@ With simple giudlines as to how to get correct links and packages for hose on a 
  * icons8.com/icons
 
 * Logo text 
- - cooltext.com/
+ - cooltext.com
+
  - flaticon.com
