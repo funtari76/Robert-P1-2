@@ -24,11 +24,17 @@ With simple giudlines as to how to get correct links and packages for hose on a 
   ### Mockup
 <hr>
 
+![UX Design]()
+
+
 ![Color Themes](/assets/media/AdobeColorcolortheme.jpg)
 
 
-## Existing Features
+<br>
 
+
+## Existing Features
+<hr>
    
     **Navigation Bar**
 
@@ -57,10 +63,14 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ## Club Section
 
-  - The ethos segment will permit the client to see the benefits of joining the meetusp,
-    as well as the benefits of finding . 
-    Clients will see the esteem of marking up forany given gatherings the meetups. 
-    This ought to empower the client to consider traveling as one of their top checklist to do list.
+  <hr>
+
+### <u>Free confirmation </u>
+
+     - Sundays for all citizens 
+     - All national
+       - ID is required.
+
 
 ![Members]
 
