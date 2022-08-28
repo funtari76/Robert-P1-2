@@ -1,4 +1,5 @@
 # Chichen Logs
+<br>
 
 Chichen logs is a website with the aim to help inform people who would like to experiance somethings extra ordinary.
 
@@ -58,7 +59,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
   - This section will be updated as these times change to keep the user up to date.
 
-<hr>
+<br>
 <br>
 
 
@@ -70,13 +71,13 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ![Gallery](/assets/media/Screenshotimagegallery.jpg)
 
-<hr>
+<br>
 
 ## <u>Contact Form</u>
 
 ![Contact Form](/assets/media/Screenshotform.jpg)
 
-<hr>
+<br>
 
 ## <u>Footer</u>
 
@@ -85,14 +86,14 @@ With simple giudlines as to how to get correct links and packages for hose on a 
   * Contains
     * Social Media links
 
-
+<br>
 <hr>
 
-## <u>Bugs and Issuse</u>
+## <u>Testings</u>
 
-### Tests
+   ### Test 1
 
-* Initiul tests via the validator on the index and styles files and had issuse at first. 
+* Initiul tests via the validator on the index and styles files and had   issuse at first. 
 
 
 ![Testing](/assets/media/Screenshotvalidator2.jpg)
@@ -101,12 +102,30 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ![Erros](/assets/media/Screenshotvalidator1.jpg)
 
+<br>
+<hr>  
+
+
+
+   ### <u>Test 2</u>
+   
+
 * Then did a second test after making some changes 
 
 ![Green](/assets/media/Screenshotvalidatorgreen1.jpg)
 
 
+<br>
 <hr>
+
+# Tecknologies Used
+<hr>
+
+
+
+
+
+
 
 ## <u>Credits</u>
 
