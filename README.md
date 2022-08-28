@@ -15,13 +15,12 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 
 ### Mockup
 
-![Color Theme](/assets/media/AdobeColorcolortheme.jpg)
+![Color Themes](/assets/media/AdobeColorcolortheme.jpg)
 
 
 ### Existing Features
 
-
-- **Navigation Bar**
+**Navigation Bar**
 
 ![Navbar](/assets/media/Screenshotnavbar.jpg)
 
@@ -29,7 +28,7 @@ With simple giudlines as to how to get correct links and packages for hose on a 
     - Full responsive navigation bar
       - Home
       - Gallery
-      - Contact page
+      - Contact Form
 
   - User to easily navigate from page to page across all devices without  having to revert back to the previous page via the ‘back’ button.
 
@@ -118,8 +117,10 @@ With simple giudlines as to how to get correct links and packages for hose on a 
 <br>
 <hr>
 
-# Tecknologies Used
+## <u>Tecknologies Used</u>
 <hr>
+  
+  * HTML5
 
 
 
