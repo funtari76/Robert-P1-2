@@ -95,7 +95,7 @@ ul {
 #hero-image h1 {
     height: 300px;
     width: 100%;
-    color: #ffffff;
+    color: #ff0000;
 }
 
 
@@ -278,7 +278,7 @@ footer {
     color: #3a3a3a;
 }
 
-/* Mobile Divs*/
+/* Mobile Divs
 @media screen and (max-width: 950px) {
 
     #menu {
@@ -316,10 +316,35 @@ footer {
         padding: 0 20px;
     }
 }
+*/
 
-/* For small screen sizes below 800px width */
+/****************Media Queirys************************/
+
+
+/*About*/
+
+@media screen and (max-width: 1200px) {
+    .container2 {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
+
+
+
+/* Media screen size */
+
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+}
+
+/* Galls ??? */
+@media screen and (max-width: 1200px) {
+    .image-grid {
+        --num-cols: 2;
+        --row-height: 200px;
     }
 }
