@@ -59,8 +59,6 @@ Mobil                               |  Desktop
 
 <br>
 
-
-
 - **The landing page image**
 
 ![Main]
@@ -71,21 +69,27 @@ Mobil                               |  Desktop
 
 
 ## Club Section
+ <hr>
 
-  <hr>
+  ### <u>Based on card selection</u>
+<br>
 
-### <u>Free to join</u>
-
-  - No fees
-
-### <u>Free confirmation </u>
-
- - Sundays for all citizens 
- - All nationals
- - ID is required.
+![Members](/assets/media/Screenshotclub.jpg)
 
 
-![Members]
+
+
+   ### <u>Free to join</u>
+
+   - No fees
+
+  ### <u>Free confirmation </u>
+
+  - Sundays for all citizens 
+  - All nationals
+  - ID is required.
+
+
 
 - **Meetup Times section**
 
@@ -196,10 +200,10 @@ Mobil                               |  Desktop
 <br>
 
    #### Text
-  * history.com/topics/ancient-americas/maya
+   * history.com/topics/ancient-americas/maya
    #### Images
   
- * Pixel.com
- * icons8.com/icons
- * cooltext.com
- * flaticon.com
+  * Pixel.com
+  * icons8.com/icons
+  * cooltext.com
+  * flaticon.com
