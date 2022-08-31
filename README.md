@@ -169,7 +169,12 @@ Mobil                               |  Desktop
 <br>
 <hr>
 
+## <u>Developed</u>
+<hr>
+<br>
 
+### Gitpod
+  * codeing
 
 ## <u>Tecknologies Used</u>
 <hr>
@@ -182,18 +187,19 @@ Mobil                               |  Desktop
 
 
 
-
+<hr>
 
 ## <u>Credits</u>
+<hr>
 
-  ### Content
+  ### <u>Content</u>
+<br>
 
-  #### Images
+   #### Text
+  * history.com/topics/ancient-americas/maya
+   #### Images
   
  * Pixel.com
  * icons8.com/icons
-
-* Logo text 
- - cooltext.com
-
- - flaticon.com
+ * cooltext.com
+ * flaticon.com
