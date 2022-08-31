@@ -54,7 +54,7 @@ ul {
 .navbar a {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-size: 24px;
+    font-size: 10px;
     font-weight: bold;
 }
 
@@ -278,10 +278,13 @@ footer {
     color: #3a3a3a;
 }
 
-/* Mobile Divs
-@media screen and (max-width: 950px) {
+/******************************************************/
+/****************Media Queirys************************/
 
-    #menu {
+
+@media screen and (max-width: 800px) {
+
+    #navbar {
         clear: left;
         float: left;
         margin-left: 30px;
@@ -316,27 +319,14 @@ footer {
         padding: 0 20px;
     }
 }
-*/
-
-
-
 
 
 /********************************************************************/
 
 
-/****************Media Queirys************************/
-
-
 /*About*/
 
-@media screen and (max-width: 1200px) {
-    .container2 {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-}
+
 
 
 
@@ -345,21 +335,5 @@ footer {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
-    }
-}
-
-/**********cards club*************/
-
-@media screen and (max-width: 1200px) {
-    .container2 {}
-}
-
-
-
-/* Galls ??? */
-@media screen and (max-width: 1200px) {
-    .image-grid {
-        --num-cols: 2;
-        --row-height: 200px;
     }
 }
