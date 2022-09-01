@@ -3,13 +3,11 @@
 <hr>
 
 <br>
-Chichen logs is a website with the aim to help inform people who would like to experiance somethings extra ordinary.
+Chichen logs is based on an imaginary simple page  with the aim to share and  inform people who would like to experiance somethings extra ordinary.
 
-Chichen logs will as a handly easy tool for travelers and researchers and backpackers.
+With simple guidelines as to how to get the correct links and packages for those on a budget as there are free tour on certain days during the week or those who are more flexible with their spendings..
 
-With simple giudlines as to how to get the correct links and packages for those on a budget as there are free tour on certain days during the week or those who are more flexible with their spendings..
 
-<br>
 <br>
 
 <hr>
@@ -18,7 +16,7 @@ With simple giudlines as to how to get the correct links and packages for those 
 <hr>
 <br>
 
-- Users find ....... on any trips,
+- Users find can on any trips,
 
 - Users can find valueble information vi
   
@@ -61,7 +59,6 @@ Mobil                               |  Desktop
 
 - **The landing page image**
 
-![Main]
 
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
@@ -73,6 +70,9 @@ Mobil                               |  Desktop
 
   ### <u>Based on card selection</u>
 <br>
+
+ * Due to some changes in the naming of some classes at the end I removed   some texts in the cards section.
+
 
 ![Members](/assets/media/Screenshotclub.jpg)
 
@@ -123,6 +123,7 @@ Mobil                               |  Desktop
 <br>
 
 ## <u>Footer</u>
+<br>
 
 ![Footer](/assets/media/Screenshotfooter.jpg)
 
@@ -132,7 +133,7 @@ Mobil                               |  Desktop
 <br>
 <hr>
 
-## <u>Testings</u>
+## <u>Tests</u>
    
  - ### Validator
  - ### Lighthouse
@@ -154,23 +155,37 @@ Mobil                               |  Desktop
 <hr>
 <br>
 
+## <u>Lighthouse</u>
+
+* The first test passed through lighthouse
 
 ![Lighthouse](/assets/media/Screenshotlighthouse.jpg)
 
 <br>
 <hr>  
 
-<hr>
 
-   ### <u>Test 2</u>
    
-
+ ### <u>Test 2</u>
+ 
 * Then did a second test after making some changes 
 
-![Green](/assets/media/Screenshotvalidatorgreen1.jpg)
-
-
+![](/assets/media/Screenshotlighthouse2.jpg)
 <br>
+<hr>
+
+### <u>Test 3</u>
+<br>
+
+* As my navbar was originaly ok it wasnt correct when I tried adding some 
+media queries
+
+* I tried to go with changing classes and go  
+
+* Got a few errors as I ran cssthrough the validator and fixed a few.
+
+
+![](/assets/media/Screenshoterrorscss2.jpg)
 <hr>
 
 ## <u>Developed</u>
@@ -185,7 +200,6 @@ Mobil                               |  Desktop
   
   * HTML5
  
-  
   * CSS
 
 
@@ -203,7 +217,11 @@ Mobil                               |  Desktop
    * history.com/topics/ancient-americas/maya
    #### Images
   
-  * Pixel.com
-  * icons8.com/icons
-  * cooltext.com
-  * flaticon.com
+  * pixel.com
+  * cooltext.com'
+
+  ### Code 
+  
+  * Code Institute
+    - Some class names where inpiried 
+  * w3schools.com
