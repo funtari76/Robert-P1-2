@@ -87,7 +87,7 @@ ul {
     height: 400px;
     width: 100%;
     background-image:
-        url(assets/images/chichendiscovercenter.jpg);
+        url(../assets/images/chichendiscovercenter.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -113,7 +113,7 @@ ul {
 .about-section {
     padding: 50px;
     text-align: center;
-    background-image: url(/assets/images/aboutbg1.jpg);
+    background-image: url(../assets/images/aboutbg1.jpg);
     color: rgb(255, 255, 255);
     background-position: center;
     background-repeat: no-repeat;
@@ -152,8 +152,8 @@ ul {
 }
 
 
-/***********************************************************Gallery***************************************************************/
-/********************************************************************************************************************************/
+/*******Gallery*******/
+
 
 
 
@@ -202,7 +202,7 @@ ul {
 
 .left {
     height: 100%;
-    background: url(/assets/images/mayacontact.jpg);
+    background: url(../assets/images/mayacontact.jpg);
     background-size: cover;
 }
 
