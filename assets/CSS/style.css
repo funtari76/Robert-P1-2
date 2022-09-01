@@ -39,8 +39,8 @@ ul {
 
 }
 
-/*****************************************************Navbar********************************************************/
-/*******************************************************************************************************************/
+/*****Navbar*****/
+
 
 .navbar {
     background: rgb(5, 96, 5);
@@ -49,12 +49,7 @@ ul {
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
 }
 
-/*.logo {
-    font-size: x-large;
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-}
-*/
+
 .navbar a {
     color: rgb(255, 255, 255);
     text-decoration: none;
@@ -84,10 +79,10 @@ ul {
 
 
 #hero-outer {
-    height: 400px;
+    height: 300px;
     width: 100%;
     background-image:
-        url(../assets/images/chichendiscovercenter.jpg);
+        url(/assets/images/chichendiscovercenter.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -107,13 +102,13 @@ ul {
 }
 
 
-/***********************************************************About******************************************************************/
-/*********************************************************************************************************************************/
+/******About******/
+
 
 .about-section {
     padding: 50px;
     text-align: center;
-    background-image: url(../assets/images/aboutbg1.jpg);
+    background-image: url(/assets/images/aboutbg1.jpg);
     color: rgb(255, 255, 255);
     background-position: center;
     background-repeat: no-repeat;
@@ -202,7 +197,7 @@ ul {
 
 .left {
     height: 100%;
-    background: url(../assets/images/mayacontact.jpg);
+    background: url(assets/images/mayacontact.jpg);
     background-size: cover;
 }
 
@@ -285,7 +280,6 @@ footer {
     color: #3a3a3a;
 }
 
-/******************************************************/
 /****************Media Queirys************************/
 
 
