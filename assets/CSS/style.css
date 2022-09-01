@@ -87,7 +87,7 @@ ul {
     height: 400px;
     width: 100%;
     background-image:
-        url(/assets/images/chichendiscovercenter.jpg);
+        url(assets/images/chichendiscovercenter.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
