@@ -82,7 +82,7 @@ ul {
     height: 300px;
     width: 100%;
     background-image:
-        url(assets/images/chichendiscovercenter.jpg);
+        url(../assets/images/chichendiscovercenter.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -101,15 +101,12 @@ ul {
     color: #ff0000;
 }
 
-
-/******About******/
-
+/***About***/
 
 .about-section {
     padding: 50px;
     text-align: center;
-    background-image: url(assets/images/aboutbg1.jpg);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -117,7 +114,6 @@ ul {
 
 
 /******Cards******/
-
 
 .container2 {
     display: flex;
