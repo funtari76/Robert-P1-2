@@ -93,12 +93,13 @@ ul {
 #cover-text,
 #cover-text h1 {
     color: #fff;
+    font-size: 100%;
 }
 
 #hero-image h1 {
     height: 300px;
     width: 100%;
-    color: #ff0000;
+    color: #ffffff;
 }
 
 /***About***/
