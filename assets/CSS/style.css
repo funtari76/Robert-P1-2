@@ -259,10 +259,15 @@ footer {
     height: 150px;
     color: #3a3a3a;
     background-color: #10bd1c26;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-networks {
     text-align: center;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .social-networks>li {
