@@ -78,9 +78,9 @@ ul {
 }
 
 
-#hero-outer {
+#hero-image {
     height: 300px;
-    width: 100%;
+    width: auto;
     background-image:
         url(../images/chichendiscovercenter.jpg);
     background-position: center;
@@ -97,8 +97,6 @@ ul {
 }
 
 #hero-image h1 {
-    height: 300px;
-    width: 100%;
     color: #ffffff;
 }
 
