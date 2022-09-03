@@ -47,14 +47,19 @@ ul {
     color: #ffffff;
     height: 100%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
 }
 
+#topnav-right {
+    float: right;
+}
 
 .navbar a {
     color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 10px;
     font-weight: bold;
+
 }
 
 .navbar a:hover {
@@ -74,6 +79,7 @@ ul {
 }
 
 .navbar ul li {
+    float: right;
     margin-left: 20px;
 }
 
@@ -319,5 +325,12 @@ footer {
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    #topnav-right {
+        float: none;
     }
 }
