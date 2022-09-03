@@ -68,14 +68,6 @@ Mobil                               |  Desktop
 ## Club Section
  <hr>
 
-  ### <u>Based on card selection</u>
-<br>
-
- * Due to some changes in the naming of some classes at the end I removed   some texts in the cards section.
-
-
-![Members](/assets/media/Screenshotclub.jpg)
-
 
 
 
@@ -180,13 +172,28 @@ Mobil                               |  Desktop
 * As my navbar was originaly ok it wasnt correct when I tried adding some 
 media queries
 
-* I tried to go with changing classes and go  
+* I tried to go with changing classes 
 
-* Got a few errors as I ran cssthrough the validator and fixed a few.
+* Got a few errors as I ran css through the validator.
 
 
 ![](/assets/media/Screenshoterrorscss2.jpg)
 <hr>
+
+
+* fixed some warnings and errors
+
+* Deployed to check and  got some errors there as images where not uploading
+
+![](/assets/media/Screenshoterrorimages1.jpg)
+
+* fixed it buy changing to ../ and then did another test in the vlidator.
+
+![](/assets/media/Screenshotgreendeploytestf1.jpg)
+
+* and also Lighthouse 
+
+![](/assets/media/Screenshotdeployedlighthouse2.jpg)
 
 ## <u>Developed</u>
 <hr>
@@ -197,12 +204,14 @@ media queries
 
 ## <u>Tecknologies Used</u>
 <hr>
-  
+
+  ### Gitpod
+
+<hr>
+
   * HTML5
  
   * CSS
-
-
 
 
 <hr>

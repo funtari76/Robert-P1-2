@@ -114,7 +114,6 @@ ul {
     background-image: url(../images/aboutbg1.jpg);
 }
 
-
 /******Cards******/
 
 .container2 {
@@ -136,7 +135,6 @@ ul {
 
 .container2 img {
     max-width: 100%;
-
 }
 
 .texts {
@@ -144,11 +142,7 @@ ul {
     margin-bottom: 10px;
 }
 
-
 /*******Gallery*******/
-
-
-
 
 .gallery .img-gallery {
     display: flex;
@@ -166,8 +160,6 @@ ul {
     font-size: 6vmin;
     color: rgb(182, 194, 17);
 }
-
-
 
 .container:after {
     content: "";
@@ -199,13 +191,11 @@ ul {
     background-size: cover;
 }
 
-
 /**/
 .right>* {
     display: block;
     margin: 25px;
 }
-
 
 h2 {
     position: relative;
