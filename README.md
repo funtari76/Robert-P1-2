@@ -3,7 +3,7 @@
 <hr>
 
 <br>
-Chichen logs is based on an imaginary simple page  with the aim to share and  inform people who would like to experiance somethings extra ordinary.
+Chichen logs is based on an imaginary simple page with the aim to share link and inform people who would like to experiance somethings extra ordinary.
 
 With simple guidelines as to how to get the correct links and packages for those on a budget as there are free tour on certain days during the week or those who are more flexible with their spendings..
 
@@ -45,30 +45,31 @@ Mobil                               |  Desktop
   
   **Navigation Bar**
 
-![Navbar](/assets/media/Screenshotnavbar.jpg)
+![Navbar](/assets/media/Screenshotnavbar1.jpg)
 
   - Main
     - Full responsive navigation bar
       - Home
+      - About
       - Gallery
-      - Contact Form
+      - Sign Up Form
 
-  - User to easily navigate from page to page across all devices without  having to revert back to the previous page via the ‘back’ button.
+  - User to easily navigate from section to section across all devices.
 
 <br>
 
 - **The landing page image**
 
-
+![](/assets/media/Screenshotlandingpage1.jpg)
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-  - This section introduces the user to Chichen and the overall main focus 
+  - This section introduces the user to Chichen and the overall main focus.
 
 
-## Club Section
+##  About Us & Club Section
  <hr>
 
-
+![](/assets/media/Screenshotaboutus.jpg)
 
 
    ### <u>Free to join</u>
@@ -77,19 +78,15 @@ Mobil                               |  Desktop
 
   ### <u>Free confirmation </u>
 
+  Here users can view the set dates and times
+
   - Sundays for all citizens 
   - All nationals
   - ID is required.
-
-
-
-- **Meetup Times section**
-
-  - Here users can view the set dates and times 
+  
 
 <br>
-<br>
-
+<hr>
 
 ## <u>Image Gallery</u>
 
@@ -117,7 +114,7 @@ Mobil                               |  Desktop
 ## <u>Footer</u>
 <br>
 
-![Footer](/assets/media/Screenshotfooter.jpg)
+![Footer](/assets/media/Screenshotfooter1.jpg)
 
   * Contains
     * Social Media links
@@ -195,11 +192,24 @@ media queries
 
 ![](/assets/media/Screenshotdeployedlighthouse2.jpg)
 
+### <u>Test 4</u>
+ 
+ * After some changes done and fixed did a additional final test.
+
+ ![](/assets/media/Screenshotcssvalid4green.jpg)
+
+ <br>
+
+ ![](/assets/media/Screenshothtml4green.jpg)
+
+ <hr>
+
 ## <u>Developed</u>
 <hr>
 <br>
 
-### Gitpod
+
+ ### Gitpod
   * codeing
 
 ## <u>Tecknologies Used</u>
@@ -218,20 +228,25 @@ media queries
 
 ## <u>Credits</u>
 <hr>
-Chris williams CSS GOD!
 
-  ### <u>Content</u>
+  * Code Institute
+  * Chris williams CI student
+  * Christine CI-TuT
+   ### <u>Content</u>
 <br>
 
    #### Text
    * history.com/topics/ancient-americas/maya
+   
    #### Images
   
   * pixel.com
-  * cooltext.com'
+  * cooltext.com
 
   ### Code 
   
+  - Some class names where inspiried 
+
   * Code Institute
-    - Some class names where inpiried 
+   
   * w3schools.com
