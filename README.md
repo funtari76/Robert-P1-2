@@ -2,6 +2,8 @@
 <br>
 <hr>
 
+![](/assets/media/Screenshottop1.jpg)
+
 <br>
 Chichen logs is based on an imaginary simple page with the aim to share link and inform people who would like to experiance somethings extra ordinary.
 
@@ -202,7 +204,16 @@ media queries
 
  ![](/assets/media/Screenshothtml4green.jpg)
 
- <hr>
+<br>
+
+![](/assets/media/Screenshotsitevalidator4.jpg)
+
+<br>
+
+![](/assets/media/Screenshotdeployedlighthouse2.jpg)
+
+[Was not really sure if it passed]
+<hr>
 
 ## <u>Developed</u>
 <hr>
