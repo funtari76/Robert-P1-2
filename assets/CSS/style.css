@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
 * {
     box-sizing: content-box;
-    padding: 4px;
+    /* padding: 4px; */
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     background: #ffffff;
 }
@@ -14,32 +14,38 @@ body {
 
 .img {
     max-width: 100%;
+    padding: 4px;
 }
 
+hr {
+    height: 0.2px;
+    color: #000;
+    width: 100%;
+}
 
-h1,
-h2 {
-    font-family: Oswald, sans-serif;
+h1 {
+    font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #fff;
 }
 
-
+.h2-gallery {
+    text-align: center;
+}
 
 ul {
     list-style-type: none;
 }
 
-
 .container {
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 4px;
 
 }
 
 /*****Navbar*****/
+
 
 
 .navbar {
@@ -48,6 +54,10 @@ ul {
     height: 100%;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     overflow: hidden;
+    margin: 4px;
+    padding: 10px;
+    opacity: 0.7;
+    /* background-image: url(../images/clubmembersbg1.jpg); */
 }
 
 #topnav-right {
@@ -57,14 +67,18 @@ ul {
 .navbar a {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    font-size: 10px;
+    font-size: 20px;
     font-weight: bold;
-
+    text-transform: uppercase;
 }
 
 .navbar a:hover {
     color: yellow;
-    border-bottom: 0.5px solid #b90505;
+    border-bottom: 0.5px solid yellow;
+    border-top: 0.5px solid yellow;
+    border-left: 0.5px solid yellow;
+    border-right: 0.5px solid yellow;
+    padding: 5px;
 }
 
 .navbar .container {
@@ -72,6 +86,7 @@ ul {
     justify-content: space-between;
     align-items: center;
     height: 100%;
+    margin: 4px;
 }
 
 .navbar ul {
@@ -85,15 +100,18 @@ ul {
 
 
 #hero-image {
-    height: 300px;
+    height: 320px;
     width: auto;
     background-image:
         url(../images/chichendiscovercenter.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
-    align-items: flex-end;
     justify-content: center;
+    margin: 4px;
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: center; */
 }
 
 #cover-text,
@@ -103,13 +121,17 @@ ul {
 }
 
 #hero-image h1 {
-    color: #ffffff;
+    color: #fff;
+    padding-top: 50px;
+    font-size: 180%;
+    font-weight: bold;
 }
 
 /***About***/
 
 .about-section {
     padding: 50px;
+    margin: 4px;
     text-align: center;
     color: rgb(0, 0, 0);
     background-position: center;
@@ -118,13 +140,21 @@ ul {
     background-image: url(../images/aboutbg1.jpg);
 }
 
+.about-text {
+    color: #fff;
+}
+
+.about-section h2 {
+    color: #fff;
+}
+
 /******Cards******/
 
 .container2 {
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
-    justify-content: center;
+    justify-content: space-around;
     backdrop-filter: blur(5px);
 }
 
@@ -179,7 +209,7 @@ ul {
 
 
 .contact-box {
-    max-width: 850px;
+    /* max-width: 850px; */
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     justify-content: center;
@@ -201,23 +231,6 @@ ul {
     margin: 25px;
 }
 
-h2 {
-    position: relative;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-}
-
-h2:after {
-    content: "";
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    transform: translateX(-50%);
-    height: 4px;
-    width: 50px;
-    border-radius: 2px;
-    background-color: rgb(255, 255, 255);
-}
 
 .image-grid {
     --gap: 16px;
@@ -328,9 +341,20 @@ footer {
     }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
+    .navbar a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 12px;
+        text-transform: lowercase;
+    }
+
+}
+
+
+/* @media screen and (max-width: 400px) {
 
     #topnav-right {
         float: none;
     }
-}
+} */

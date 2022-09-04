@@ -218,6 +218,7 @@ media queries
 
 ## <u>Credits</u>
 <hr>
+Chris williams CSS GOD!
 
   ### <u>Content</u>
 <br>
